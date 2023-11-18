@@ -1,5 +1,5 @@
 # Fraud Detection
-A minor project in machine learning.
+A minor project in machine learning classification problems.
 ## Problem Statement
 According to the Data Breach Index, more than 5 million records are being stolen on a daily
 basis, a concerning statistic that shows - fraud is still very common both for Card-Present and
